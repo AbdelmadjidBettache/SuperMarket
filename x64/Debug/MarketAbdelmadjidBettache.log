@@ -1,0 +1,8 @@
+﻿  Catalog.cpp
+  CatalogItem.cpp
+  Item.cpp
+  Main.cpp
+  Warehouse.cpp
+C:\Users\Bmadj\source\repos\MarketAbdelmadjidBettache\Warehouse.cpp(68,28): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+  Génération de code en cours...
+  MarketAbdelmadjidBettache.vcxproj -> C:\Users\Bmadj\source\repos\MarketAbdelmadjidBettache\x64\Debug\MarketAbdelmadjidBettache.exe
